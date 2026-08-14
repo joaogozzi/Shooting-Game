@@ -10,6 +10,8 @@ This project focuses on practicing **Unity gameplay programming, script organiza
 
 <img width="364" height="204" alt="Part 1" src="https://github.com/user-attachments/assets/2cedac8f-63c5-46e4-8ce6-7ca7b4cab193" />
 
+---
+
 <img width="490" height="276" alt="Part 2" src="https://github.com/user-attachments/assets/d201ea3f-2d9e-4c25-9341-962ad9af0bab" />
 
 The objective is simple:
